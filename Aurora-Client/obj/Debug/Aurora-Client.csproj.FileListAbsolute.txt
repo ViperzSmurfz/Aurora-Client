@@ -1,0 +1,19 @@
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\MaterialSkin.dll
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\MetroFramework.dll
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora-Client.csprojAssemblyReference.cache
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.Properties.Resources.resources
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora-Client.csproj.GenerateResource.cache
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora-Client.csproj.CoreCompileInputs.cache
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora-Client.csproj.CopyComplete
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\XanderUI.dll
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.AuroraForm.resources
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\Aurora Client.exe.config
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\Aurora Client.exe
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\Aurora Client.pdb
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\AutoUpdater.NET.dll
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\AutoUpdater.NET.xml
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora Client.exe
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora Client.pdb
