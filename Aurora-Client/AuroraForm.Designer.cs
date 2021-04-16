@@ -79,6 +79,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(30, 30);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseMove);
             // 
             // TitleLbl
             // 
@@ -90,6 +91,7 @@
             this.TitleLbl.Size = new System.Drawing.Size(119, 24);
             this.TitleLbl.TabIndex = 0;
             this.TitleLbl.Text = "Aurora Client";
+            this.TitleLbl.MouseMove += new System.Windows.Forms.MouseEventHandler(this.TitleLbl_MouseMove);
             // 
             // MinimizeBtn
             // 
@@ -165,6 +167,7 @@
             this.SettingsBtn.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.SettingsBtn.UseAccentColor = false;
             this.SettingsBtn.UseVisualStyleBackColor = true;
+            this.SettingsBtn.Click += new System.EventHandler(this.SettingsBtn_Click);
             // 
             // WebsiteBtn
             // 
@@ -185,6 +188,7 @@
             this.WebsiteBtn.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.WebsiteBtn.UseAccentColor = false;
             this.WebsiteBtn.UseVisualStyleBackColor = true;
+            this.WebsiteBtn.Click += new System.EventHandler(this.WebsiteBtn_Click);
             // 
             // ModsBtn
             // 
@@ -205,6 +209,7 @@
             this.ModsBtn.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.ModsBtn.UseAccentColor = false;
             this.ModsBtn.UseVisualStyleBackColor = true;
+            this.ModsBtn.Click += new System.EventHandler(this.ModsBtn_Click);
             // 
             // PlayBtn
             // 
@@ -226,6 +231,7 @@
             this.PlayBtn.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.PlayBtn.UseAccentColor = false;
             this.PlayBtn.UseVisualStyleBackColor = true;
+            this.PlayBtn.Click += new System.EventHandler(this.PlayBtn_Click);
             // 
             // DashboardBtn
             // 
@@ -246,10 +252,11 @@
             this.DashboardBtn.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             this.DashboardBtn.UseAccentColor = false;
             this.DashboardBtn.UseVisualStyleBackColor = true;
+            this.DashboardBtn.Click += new System.EventHandler(this.DashboardBtn_Click);
             // 
             // DesktopPnl
             // 
-            this.DesktopPnl.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.DesktopPnl.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(18)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
             this.DesktopPnl.Dock = System.Windows.Forms.DockStyle.Fill;
             this.DesktopPnl.Location = new System.Drawing.Point(0, 100);
             this.DesktopPnl.Name = "DesktopPnl";
@@ -284,6 +291,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "AuroraForm";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.AuroraForm_Load);
             this.DragBar.ResumeLayout(false);
             this.DragBar.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

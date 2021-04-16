@@ -17,3 +17,8 @@ C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\AutoUpdate
 C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\bin\Debug\AutoUpdater.NET.xml
 C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora Client.exe
 C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora Client.pdb
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.DashboardForm.resources
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.Forms.ModsForm.resources
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.Forms.PlayForm.resources
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.Forms.SettingsForm.resources
+C:\Users\gunzb\Documents\GitHub\Aurora-Client\Aurora-Client\obj\Debug\Aurora_Client.Forms.WebsiteConfirmForm.resources
