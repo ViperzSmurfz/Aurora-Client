@@ -74,7 +74,7 @@
             this.UsernameTxtBox.MaxLength = 32767;
             this.UsernameTxtBox.Name = "UsernameTxtBox";
             this.UsernameTxtBox.PasswordChar = '\0';
-            this.UsernameTxtBox.PromptText = "Enter your Website Email";
+            this.UsernameTxtBox.PromptText = "Enter your Minecraft Username";
             this.UsernameTxtBox.ScrollBars = System.Windows.Forms.ScrollBars.None;
             this.UsernameTxtBox.SelectedText = "";
             this.UsernameTxtBox.SelectionLength = 0;
@@ -83,7 +83,7 @@
             this.UsernameTxtBox.Size = new System.Drawing.Size(221, 23);
             this.UsernameTxtBox.TabIndex = 2;
             this.UsernameTxtBox.UseSelectable = true;
-            this.UsernameTxtBox.WaterMark = "Enter your Website Email";
+            this.UsernameTxtBox.WaterMark = "Enter your Minecraft Username";
             this.UsernameTxtBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.UsernameTxtBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
@@ -109,7 +109,7 @@
             this.PasswordTxtBox.MaxLength = 32767;
             this.PasswordTxtBox.Name = "PasswordTxtBox";
             this.PasswordTxtBox.PasswordChar = '•';
-            this.PasswordTxtBox.PromptText = "Enter your Website Password";
+            this.PasswordTxtBox.PromptText = "Enter your Minecraft Password";
             this.PasswordTxtBox.ScrollBars = System.Windows.Forms.ScrollBars.None;
             this.PasswordTxtBox.SelectedText = "";
             this.PasswordTxtBox.SelectionLength = 0;
@@ -119,7 +119,7 @@
             this.PasswordTxtBox.Size = new System.Drawing.Size(221, 23);
             this.PasswordTxtBox.TabIndex = 1;
             this.PasswordTxtBox.UseSelectable = true;
-            this.PasswordTxtBox.WaterMark = "Enter your Website Password";
+            this.PasswordTxtBox.WaterMark = "Enter your Minecraft Password";
             this.PasswordTxtBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.PasswordTxtBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             this.PasswordTxtBox.ButtonClick += new MetroFramework.Controls.MetroTextBox.ButClick(this.Eye_ButtonClick);

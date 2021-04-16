@@ -12,6 +12,7 @@ namespace Aurora_Client
 {
     public partial class DashboardForm : Form
     {
+        public string ClientURL = Program.ClientURL;
         public DashboardForm()
         {
             InitializeComponent();
@@ -31,6 +32,12 @@ namespace Aurora_Client
         private void SigninBtn_Click(object sender, EventArgs e)
         {
             //Attempt to Log User In
+                //User is valid.
+                    //Send data from mojang auth to database.
+                    //loop pull data from database to client.
+                    //pull protected webserver file using database token to read from.
+                    //When user logs out, send data to database, close database connection.
+                            
         }
     }
 }

@@ -11,6 +11,8 @@ namespace Aurora_Client
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        public static string ClientURL = @"http://launcher.viperzaurora.com/manifest.json";
+
         [STAThread]
         static void Main()
         {
